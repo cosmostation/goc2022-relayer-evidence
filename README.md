@@ -20,4 +20,4 @@ Our relayer has currently relayed a total of `750` vsc packets on consumer chain
 | sum-up                 | 750 |
 
 ## Caution
-We had relayed with 0fees between provider chain and others. so, nothing is any events found via other repo tools
+We had relayed with 0 fees between provider chain and others. So no results will be found using other repo tools
